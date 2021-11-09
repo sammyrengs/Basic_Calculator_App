@@ -1,3 +1,4 @@
-Basic version of the Standard Calculator which resembles the one found on Windows
+Basic version of the Standard Calculator which resembles the one found on Windows.
+Made using Flutter.
 
 
